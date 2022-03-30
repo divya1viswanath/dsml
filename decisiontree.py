@@ -1,4 +1,4 @@
-import mathplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
 from sklearn import tree
 iris = load_iris()
